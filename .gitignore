@@ -1,0 +1,7 @@
+# Ignore UCI HAR Dataset files (except dataset_readme)
+UCI HAR Dataset/test/
+UCI HAR Dataset/train/
+UCI HAR Dataset/README.txt
+UCI HAR Dataset/activity_labels.txt
+UCI HAR Dataset/features.txt
+UCI HAR Dataset/features_info.txt
